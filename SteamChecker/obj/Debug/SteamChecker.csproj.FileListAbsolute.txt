@@ -1,0 +1,15 @@
+C:\Users\swordily\source\repos\SteamChecker\SteamChecker\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\swordily\source\repos\SteamChecker\SteamChecker\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\swordily\source\repos\SteamChecker\SteamChecker\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\swordily\source\repos\SteamChecker\SteamChecker\bin\Debug\SteamChecker.exe.config
+C:\Users\swordily\source\repos\SteamChecker\SteamChecker\bin\Debug\SteamChecker.exe
+C:\Users\swordily\source\repos\SteamChecker\SteamChecker\bin\Debug\SteamChecker.pdb
+C:\Users\swordily\source\repos\SteamChecker\SteamChecker\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\swordily\source\repos\SteamChecker\SteamChecker\bin\Debug\WebDriver.dll
+C:\Users\swordily\source\repos\SteamChecker\SteamChecker\bin\Debug\WebDriver.Support.dll
+C:\Users\swordily\source\repos\SteamChecker\SteamChecker\obj\Debug\SteamChecker.csproj.AssemblyReference.cache
+C:\Users\swordily\source\repos\SteamChecker\SteamChecker\obj\Debug\SteamChecker.csproj.SuggestedBindingRedirects.cache
+C:\Users\swordily\source\repos\SteamChecker\SteamChecker\obj\Debug\SteamChecker.csproj.CoreCompileInputs.cache
+C:\Users\swordily\source\repos\SteamChecker\SteamChecker\obj\Debug\SteamChecker.csproj.CopyComplete
+C:\Users\swordily\source\repos\SteamChecker\SteamChecker\obj\Debug\SteamChecker.exe
+C:\Users\swordily\source\repos\SteamChecker\SteamChecker\obj\Debug\SteamChecker.pdb
